@@ -1,5 +1,5 @@
-RETO 1
-![alt text](capturas/reto1.png)
+RETO 1![alt text](capturas/reto1.png)
+
 SOLUCION 1
 ![alt text](capturas/solucion1.png)
 
@@ -94,3 +94,7 @@ RETO 19
 SOLUCION 19
 ![alt text](<capturas/SOLUCION 19.png>)
 
+RETO 20 
+![alt text](<capturas/reto 20.png>)
+SOLUCION 20
+![alt text](<capturas/solucion 20.png>)
