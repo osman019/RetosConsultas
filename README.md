@@ -37,22 +37,22 @@
 
 ## RETO 8
 ![alt text](capturas/reto8.png)
-SOLUCION 8
+## SOLUCION 8
 ![alt text](capturas/solucion8.png)
 
 ## RETO 9
 ![alt text](capturas/reto9.png)
-SOLUCION 9
+## SOLUCION 9
 
 
 ## RETO 10 
 ![alt text](<capturas/reto desconocido.png>)
-SOLUCION 10
+## SOLUCION 10
 ![alt text](<capturas/solucion desconocidad.png>)
 
 ## RETO 11
 ![alt text](<capturas/reto desconocido 2.png>)
-SOLUCION 11
+## SOLUCION 11
 ![alt text](<capturas/solucion desconocidad 2.png>)
 
 ## RETO 12 
@@ -62,7 +62,7 @@ SOLUCION 11
 
 ## RETO 13 
 ![alt text](<capturas/reto desconocido4.png>)
-SOLUCION 13
+## SOLUCION 13
 ![alt text](<capturas/solucion desconocidad 4.png>)
 
 ## RETO 14 
@@ -80,9 +80,9 @@ SOLUCION 13
 ## SOLUCION 16
 ![alt text](<capturas/SOLUCION 16.png>)
 
-##RETO 17 
+## RETO 17 
 ![alt text](<capturas/RETO 17.png>)
-##SOLUCION 17
+## SOLUCION 17
 ![alt text](<capturas/SOLUCION 17.png>)
 
 ## RETO 18
