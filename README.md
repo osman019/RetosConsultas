@@ -1,4 +1,5 @@
-RETO 1![alt text](capturas/reto1.png)
+RETO 1
+![alt text](capturas/reto1.png)
 
 SOLUCION 1
 ![alt text](capturas/solucion1.png)
